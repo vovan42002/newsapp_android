@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Новини</string>
+    <string name="popular_news">Популярі новини на сьогодні</string>
+    <string name="search">Пошук</string>
+    <string name="description">Опис</string>
+    <string name="visit_site">Перейти до сайту</string>
+</resources>
